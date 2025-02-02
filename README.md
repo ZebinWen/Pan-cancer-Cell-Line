@@ -1,2 +1,2 @@
 # Pan-cancer-Cell-Line
-Code for the manuscript "StateNet: a deep learning model for profiling individual portraits from pan-cancer commonalities"
+Code for the manuscript "Profiling cell-state fingerprints based on deep learning model with meta-programs of Pan-cancer"
